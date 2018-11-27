@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This is a Caffe implementation of Not Suitable for Work (NSFW) classification deep neural network. This model is now slightly more accurate than Yahoo's Open NSFW. As a bonus, this model executes ~4x faster. We can run classification with this model at 80msec on the mobile phone. For details, please read the our blog.
+This is a Caffe implementation of Not Suitable for Work (NSFW) classification deep neural network. This model is now slightly more accurate than Yahoo's Open NSFW. As a bonus, this model executes ~4x faster. We can run classification with this model at 80msec on the mobile phone. For details, please read the [our blog](https://blog.csdn.net/lsy17096535/article/details/84564976).
 
 ### Evaluate Models with a single image
 
