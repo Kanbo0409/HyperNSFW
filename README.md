@@ -24,7 +24,7 @@ Prepare your own data and use related files in the train folder to Finetune on y
 
 
 ### Related Projects
-HyperNSFW in this repo has been used in the following projects, we recommend you to take a look:
+HyperNSFW is trained with the following projects, we recommend you to take a look:
 
 - MobileNet-Caffe [shicai/MobileNet-Caffe](https://github.com/shicai/MobileNet-Caffe)
 
