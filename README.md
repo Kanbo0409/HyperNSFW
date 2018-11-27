@@ -16,7 +16,6 @@ Expected Outputs:
 ```
 0.9302 - 'n16000001 sfw'
 0.0698 - 'n16000002 nsfw'
-
 ```
 
 ### Finetuning on your own data
