@@ -54,7 +54,7 @@ def eval():
 
     idx = np.argsort(-prob)
 
-    label_names = np.loadtxt('label.txt', str, delimiter='\t')
+    label_names = np.loadtxt('model/label.txt', str, delimiter='\t')
     for i in range(2):
         label = idx[i]
         print('%.4f - %s' % (prob[label], label_names[label]))
